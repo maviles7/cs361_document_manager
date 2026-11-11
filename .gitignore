@@ -1,0 +1,8 @@
+# ignore the following files
+# Ignore local runtime folders and files
+input_docs/
+output_docs/
+archive_docs/
+logs/
+*.txt
+*.log
