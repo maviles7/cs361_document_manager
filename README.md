@@ -32,7 +32,7 @@ with open(request_filename, "w", encoding="utf-8") as f:
     f.write(code_payload)
 ```
 
-## RECEIVE Data Example
+### RECEIVE Data Example
 ```python
 import os
 import time
